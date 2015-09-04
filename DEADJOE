@@ -1,0 +1,48 @@
+
+*** These modified files were found in JOE when it aborted on Fri Sep  4 16:29:50 2015
+*** JOE was aborted because the terminal closed
+
+*** Fichier '.git/COMMIT_EDITMSG'
+upload new doc files
+sdfjsdhfjksdhfjksdh
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .~lock.lec06_MC.ppt#
+#	new file:   13-2-ModelChecking.pdf
+#	new file:   Clarke.pdf
+#	new file:   Clarke.ppt
+#	new file:   GRAND CHALLENGE-intro.PPT
+#	new file:   MCOverview_0409.docx
+#	new file:   MCOverview_Huyen.docx
+#	new file:   lec04_BDD1.pdf
+#	new file:   lec04_BDD1.ppt
+#	new file:   lec05_BDD2.pptx
+#	new file:   lec06_MC.ppt
+#	new file:   lec07_MC2 (1).ppt
+#	new file:   lec07_MC2 (2).ppt
+#	new file:   lec07_MC2.ppt
+#	new file:   lec12_MC.pdf
+#	new file:   lec18_SPIN2.pdf
+#	new file:   lec21_partialorder.pdf
+#	new file:   lec24_PA+IR.pdf
+#	new file:   lec24_PA+IR.ppt
+#	new file:   lec26_CBMC.pptx
+#	new file:   lec27_MC.pdf
+#	new file:   lecture02.6up.pdf
+#	new file:   model-checking.ppt
+#
+
+
+*** Fichier '(Sans nom)'
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
+.git/COMMIT_EDITMSG
